@@ -4,5 +4,3 @@
 3. git commit -m "some message" - save your files
 4. git push - upload the changes to your repo
 
-  ## subheader 
-  git branch - to create a new branch
